@@ -1,1 +1,7 @@
 /* CSS declarations go here */
+body {
+    background-image: url("tesla.jpg");
+    background-repeat: no-repeat;
+    text-align: center;
+    color: white;
+}
